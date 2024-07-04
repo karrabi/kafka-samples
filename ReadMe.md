@@ -19,3 +19,9 @@ Multiple Broker / One Zookeeper / Multiple Websocket Producer / One consumer to 
 **kafka-socket-05**
 Multiple Broker / One Zookeeper / Multiple Websocket Producer / Multiple consumer to Postgres / Partitioning
 
+**kafka-socket-06**
+Multiple Broker / One Zookeeper / two simple Producer / One simple Consumer to Redis Caching
+
+**kafka-socket-07**
+Multiple Broker / One Zookeeper / One Websocket Producer / One consumer to Redis Caching 
+
